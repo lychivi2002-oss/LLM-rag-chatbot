@@ -48,3 +48,8 @@ The core of Yui's personality is a custom-built **Mood Manager**:
 * **Utilities:** `python-dotenv`, `aiofiles`, `pandas`
 
 ---
+### 🎥 Demo Video
+
+[![Watch the video][(https://img.youtube.com/vi/ID_VIDEO_CUA_BAN/0.jpg)](https://www.youtube.com/watch?v=ID_VIDEO_CUA_BAN)](https://youtu.be/NQfYL0o1yWM)
+
+*(Bấm vào ảnh trên để xem video demo)*
